@@ -46,6 +46,7 @@ if (response.status == 200) {
 </h1>
 <h2>{post.title}</h2>
 <h3>{post.author}</h3>
+<p> recentlt updated data</p>
         </div>
       )
 })}
